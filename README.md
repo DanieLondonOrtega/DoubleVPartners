@@ -1,5 +1,5 @@
 # DoubleVPartners
- Prueba Tecnica Double V Partners
+Prueba Tecnica Double V Partners
 Daniel Stiven Londoño Ortega daniel.londono.ortega@gmail.com
 
 #Recursos
